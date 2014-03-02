@@ -1,0 +1,4 @@
+#
+name=Wayne
+level=14
+class=archer
