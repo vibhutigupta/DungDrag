@@ -1,0 +1,5 @@
+#Character sheet
+name=Batman
+level=30
+class=fighter
+item=1,2,3,4,5
