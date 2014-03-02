@@ -19,7 +19,7 @@ public class Main
             	GameView view = new GameView();
             	GameController controller = new GameController(model, view);
             	view.registerListener(controller);
-            	view.setMainFrameVisibility(true);
+            	view.setMainFrameVisibility(true);            
             }
             
         });  
